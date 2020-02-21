@@ -5,7 +5,7 @@ You may implement the exam any way you want or you may choose from the following
 <ul type="a">
 <li>create using laravel only (from default-laravel installation)</li>
 <li>create an API driven using laravel-vue (from default-laravel installation)</li>
-<li>create an API driven using laravel - vue each framework in a separate directory (boilerplate and api are given) </li>
+<li>create an API driven using laravel - vue each framework in a separate directory </li>
 </ul>
 
 These following installation steps along with the pre-configured vendor packages, are already done for you:
