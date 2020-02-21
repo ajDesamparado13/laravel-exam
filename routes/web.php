@@ -14,3 +14,11 @@
 Route::get('/', function () {
     return view('welcome');
 });
+
+/*
+* Delegate routes to vue router
+*/
+//Route::get('/{vue?}', function() {
+//    return view('layouts.app');
+//})->where('vue', '[\/\w\.-]*');
+
