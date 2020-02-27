@@ -117,3 +117,5 @@ On extra modules, the examinee would show the skills and understanding of the fo
 ## SAMPLE Admin Panel
 
 ![An old rock in the desert](resources/images/sample-dashboard.png "Sample Dashdmin Panel")
+
+NOTE: It is not necessary you follow the UI-Design
