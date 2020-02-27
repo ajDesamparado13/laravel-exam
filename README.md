@@ -50,7 +50,7 @@ The following environment configurations are required for the exam, some of thes
 
 # PRACTICAL EXAMINATION
 
-**MAXIMUM OF 4 HOURS**
+**MAXIMUM OF 3 HOURS**
 
 A client requires a Mini-CRM UI which includes an admin panel to manage companies and the company-employees and a company dashboard for their company-users to view their employees into and for employees to view scrum task in their companies.
 
